@@ -1,4 +1,4 @@
-## LINEAR REGRESSION
+## Linear Regression
 
 * Warm Up Exercise
 * Plot Data

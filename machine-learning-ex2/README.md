@@ -1,4 +1,4 @@
-## LOGISTIC REGRESSION
+## Logistic Regression
 
 * Plot Data
 * Sigmoid Function
